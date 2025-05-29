@@ -77,8 +77,8 @@ export default function ReceiptsPage() {
   return (
     <div className="rounded-lg border border-[#2E3A4D] bg-[#0F1824]">
       <div className="p-6">
-        <h3 className="text-xl font-semibold text-white mb-6">Data Table 3</h3>
-        
+        <h3 className="text-xl font-semibold text-white mb-6">Receipts</h3>
+        <p className="text-sm font-light text-[#8A99AF] mb-6">All Entries are shows here...</p>
         <div className="flex flex-col gap-4 md:flex-row md:items-center md:justify-between mb-6">
           <div className="flex items-center gap-2">
             <span className="text-sm text-[#8A99AF]">Show</span>
